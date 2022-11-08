@@ -1,0 +1,964 @@
+VDS,Lane,Roads,County,City,Latitude,Longitude
+400000,4,US101-S, Marin County,City of Novato,38.081167,-122.547606
+400001,5,US101-N, Santa Clara County,City of San Jose,37.364085,-121.901149
+400009,5,I80-W, Alameda County,City of Berkeley,37.863905,-122.303083
+400010,4,US101-N, San Mateo County,Undefined,37.623668,-122.400687
+400015,3,SR84-S, Alameda County,City of Fremont,37.532729,-122.084876
+400017,4,SR85-S, Santa Clara County,City of San Jose,37.253303,-121.945440
+400025,5,I680-N, Contra Costa County,City of Walnut Creek,37.891953,-122.062776
+400026,4,I580-E, Alameda County,City of Oakland,37.809074,-122.244479
+400027,4,I80-E, Contra Costa County,City of Richmond,37.912647,-122.317370
+400030,4,I880-S, Santa Clara County,City of San Jose,37.359087,-121.906538
+400031,4,I580-W, Alameda County,City of Oakland,37.787056,-122.196191
+400035,4,I880-S, Alameda County,City of Hayward,37.638975,-122.089798
+400037,6,I680-S, Contra Costa County,City of Pleasant Hill,37.943971,-122.058927
+400039,4,US101-N, San Mateo County,Undefined,37.635096,-122.403232
+400040,3,SR87-S, Santa Clara County,City of San Jose,37.294625,-121.873166
+400041,4,I880-N, Alameda County,City of Hayward,37.633535,-122.085656
+400043,4,US101-S, San Francisco County,City of San Francisco,37.753591,-122.403092
+400044,2,I680-S, Solano County,Undefined,38.116435,-122.106331
+400045,4,I880-N, Santa Clara County,City of San Jose,37.363402,-121.902233
+400049,4,SR4-E, Contra Costa County,Undefined,38.015319,-121.992996
+400052,3,SR85-N, Santa Clara County,City of San Jose,37.255791,-121.875479
+400053,4,I680-S, Contra Costa County,Undefined,37.862379,-122.034414
+400057,3,I880-N, Santa Clara County,City of San Jose,37.335022,-121.935522
+400059,3,SR85-S, Santa Clara County,City of San Jose,37.250481,-121.907735
+400060,5,I80-W, Alameda County,City of Berkeley,37.870977,-122.305289
+400065,2,SR87-S, Santa Clara County,City of San Jose,37.320440,-121.890471
+400067,4,I880-S, Alameda County,City of Union City,37.597694,-122.060285
+400071,3,SR92-W, San Mateo County,City of Foster City,37.567395,-122.269390
+400073,2,SR17-S, Santa Clara County,City of Los Gatos,37.256300,-121.955559
+400074,3,I80-W, Solano County,City of Vallejo,38.108307,-122.229770
+400075,6,I580-E, Alameda County,City of Oakland,37.825760,-122.275143
+400078,6,I680-N, Contra Costa County,City of Walnut Creek,37.913930,-122.066407
+400079,4,I80-W, Contra Costa County,City of Richmond,37.904377,-122.313309
+400082,4,I80-E, Contra Costa County,City of Richmond,37.980187,-122.317007
+400083,4,SR24-W, Alameda County,City of Oakland,37.839085,-122.264430
+400085,3,SR85-S, Santa Clara County,City of San Jose,37.255594,-121.874710
+400086,5,I880-N, Alameda County,City of Hayward,37.650067,-122.097325
+400088,4,I880-N, Santa Clara County,City of Milpitas,37.414988,-121.912685
+400090,5,I680-N, Contra Costa County,City of Danville,37.819048,-121.993114
+400091,5,I880-S, Alameda County,City of San Leandro,37.707230,-122.162087
+400093,4,I880-S, Alameda County,City of Oakland,37.811953,-122.303779
+400094,4,I880-N, Alameda County,City of Oakland,37.776769,-122.236107
+400095,4,I80-W, Contra Costa County,City of Richmond,37.900816,-122.310886
+400096,3,SR237-W, Santa Clara County,City of Santa Clara,37.418049,-121.972381
+400097,3,SR85-S, Santa Clara County,City of Saratoga,37.279012,-122.010614
+400100,3,SR17-S, Santa Clara County,City of Campbell,37.295052,-121.938872
+400103,4,SR24-E, Alameda County,City of Oakland,37.839128,-122.264826
+400107,4,US101-N, San Mateo County,City of San Mateo,37.550467,-122.293264
+400108,2,SR17-N, Santa Clara County,Undefined,37.190197,-121.992771
+400109,4,US101-S, Santa Clara County,City of San Jose,37.362706,-121.889426
+400110,6,I680-S, Contra Costa County,City of Pleasant Hill,37.951045,-122.055749
+400113,4,I80-W, Contra Costa County,City of Richmond,37.932553,-122.326013
+400115,3,SR238-S, Alameda County,Undefined,37.688688,-122.114306
+400116,4,US101-S, San Mateo County,Undefined,37.633443,-122.403124
+400118,4,I680-N, Contra Costa County,City of San Ramon,37.780247,-121.976637
+400122,3,I880-N, Santa Clara County,City of San Jose,37.366140,-121.901132
+400124,4,I80-E, Contra Costa County,Undefined,38.037879,-122.248062
+400125,6,US101-N, San Mateo County,Undefined,37.617067,-122.398437
+400126,5,I80-W, Alameda County,City of Berkeley,37.856366,-122.301014
+400127,3,SR84-N, Alameda County,City of Fremont,37.516003,-122.106861
+400132,4,SR85-N, Santa Clara County,City of San Jose,37.243208,-121.806387
+400137,4,I880-N, Alameda County,City of Fremont,37.546530,-122.022581
+400138,5,US101-S, Santa Clara County,Undefined,37.316310,-121.829714
+400141,4,I880-N, Alameda County,City of Fremont,37.523522,-121.989607
+400143,5,US101-S, Marin County,Undefined,38.074388,-122.541483
+400145,3,SR85-N, Santa Clara County,City of San Jose,37.251693,-121.838501
+400147,3,I880-N, Santa Clara County,City of San Jose,37.342210,-121.926305
+400148,3,SR85-N, Santa Clara County,City of San Jose,37.250664,-121.912479
+400149,3,US101-S, Santa Clara County,City of Mountain View,37.410945,-122.075848
+400150,4,I680-N, Contra Costa County,City of Walnut Creek,37.872824,-122.043122
+400152,5,I680-N, Contra Costa County,City of Danville,37.805539,-121.990262
+400153,7,I580-E, Alameda County,City of Livermore,37.700916,-121.825597
+400154,2,SR17-N, Santa Clara County,City of Los Gatos,37.226342,-121.975157
+400156,5,I280-N, San Francisco County,City of San Francisco,37.727079,-122.445019
+400158,3,SR237-W, Santa Clara County,City of San Jose,37.421059,-121.936780
+400160,4,US101-S, Santa Clara County,City of San Jose,37.348392,-121.860589
+400162,2,SR92-W, San Mateo County,City of San Mateo,37.552555,-122.307411
+400164,3,SR84-S, Alameda County,City of Fremont,37.526517,-122.096912
+400165,4,I880-N, Alameda County,City of Hayward,37.639068,-122.089608
+400169,5,I680-S, Contra Costa County,City of Walnut Creek,37.870801,-122.042021
+400171,4,SR24-E, Contra Costa County,City of Lafayette,37.891457,-122.152067
+400172,4,US101-S, Santa Clara County,City of San Jose,37.376264,-121.939712
+400174,3,SR85-N, Santa Clara County,City of Mountain View,37.403686,-122.069760
+400180,5,I880-N, Alameda County,Undefined,37.674405,-122.114201
+400181,4,US101-N, Santa Clara County,City of San Jose,37.244125,-121.772528
+400182,6,I80-E, Contra Costa County,City of Richmond,37.925458,-122.320648
+400183,4,US101-N, San Mateo County,City of Brisbane,37.689942,-122.390669
+400184,4,I680-N, Contra Costa County,City of Concord,37.966533,-122.056341
+400185,3,SR85-N, Santa Clara County,City of San Jose,37.303131,-122.034527
+400186,4,I880-S, Alameda County,City of Fremont,37.572471,-122.046218
+400189,4,I880-N, Alameda County,City of Fremont,37.493107,-121.948928
+400190,4,I880-S, Alameda County,City of Oakland,37.771395,-122.223163
+400192,6,I880-S, Alameda County,City of San Leandro,37.715650,-122.173379
+400193,4,I680-S, Contra Costa County,City of Pleasant Hill,37.935254,-122.060384
+400195,4,US101-N, Santa Clara County,City of San Jose,37.321278,-121.834098
+400201,3,SR237-W, Santa Clara County,City of San Jose,37.419186,-121.962831
+400202,3,I580-E, Contra Costa County,City of Richmond,37.921350,-122.337615
+400203,4,I580-E, Alameda County,City of Oakland,37.822145,-122.259965
+400204,3,SR84-S, Alameda County,City of Fremont,37.521657,-122.104414
+400206,4,US101-S, Santa Clara County,City of San Jose,37.381356,-121.962110
+400208,5,I680-S, Contra Costa County,City of Walnut Creek,37.922084,-122.061731
+400209,4,SR85-S, Santa Clara County,City of Cupertino,37.319961,-122.049031
+400211,5,I680-N, Contra Costa County,City of Walnut Creek,37.852987,-122.028797
+400212,4,I680-N, Contra Costa County,City of San Ramon,37.755539,-121.962311
+400213,4,SR85-S, Santa Clara County,City of Los Gatos,37.259192,-121.967128
+400214,4,US101-N, Marin County,City of Novato,38.079686,-122.545663
+400216,3,I580-E, Contra Costa County,City of Richmond,37.919642,-122.332292
+400218,4,I880-N, Alameda County,City of Oakland,37.803542,-122.301498
+400221,3,SR17-N, Santa Clara County,City of Campbell,37.293614,-121.937899
+400222,3,SR85-N, Santa Clara County,City of San Jose,37.275395,-122.004702
+400223,4,US101-S, Santa Clara County,City of San Jose,37.208606,-121.722043
+400224,4,SR24-W, Alameda County,City of Oakland,37.835531,-122.266013
+400225,4,I880-S, Alameda County,City of San Leandro,37.689656,-122.136588
+400227,5,US101-N, Santa Clara County,City of San Jose,37.377237,-121.943586
+400228,6,I880-S, Alameda County,City of San Leandro,37.717690,-122.175415
+400231,3,I280-S, San Francisco County,City of San Francisco,37.762469,-122.392743
+400232,3,I680-N, Alameda County,City of Fremont,37.469056,-121.907492
+400235,4,I80-W, Contra Costa County,Undefined,38.034452,-122.251416
+400236,3,SR87-S, Santa Clara County,City of San Jose,37.325105,-121.893262
+400237,4,US101-N, Santa Clara County,City of San Jose,37.062441,-121.585669
+400238,4,I880-S, Santa Clara County,City of Milpitas,37.413256,-121.912324
+400240,3,SR17-N, Santa Clara County,City of Los Gatos,37.258184,-121.953853
+400242,4,I880-S, Alameda County,City of Oakland,37.824311,-122.291457
+400248,4,I880-S, Alameda County,City of Fremont,37.546915,-122.023163
+400251,4,SR24-E, Contra Costa County,City of Lafayette,37.893156,-122.123812
+400252,4,I880-N, Alameda County,Undefined,37.687544,-122.133225
+400253,3,I880-S, Santa Clara County,City of San Jose,37.342957,-121.925721
+400255,5,US101-N, San Francisco County,City of San Francisco,37.727662,-122.402599
+400256,5,I880-S, Alameda County,City of Hayward,37.649947,-122.097592
+400258,3,SR87-N, Santa Clara County,City of San Jose,37.313568,-121.886074
+400260,4,US101-N, San Mateo County,City of Brisbane,37.703072,-122.393983
+400261,4,I580-E, Alameda County,City of Oakland,37.805061,-122.234851
+400265,2,I680-S, Solano County,City of Benicia,38.069896,-122.126516
+400268,3,SR85-N, Santa Clara County,City of San Jose,37.255651,-121.858078
+400270,4,SR4-E, Contra Costa County,Undefined,38.022121,-121.962176
+400272,4,US101-S, San Mateo County,City of San Mateo,37.546868,-122.290231
+400274,3,SR237-W, Santa Clara County,City of Sunnyvale,37.409909,-121.995942
+400275,5,I880-N, Alameda County,Undefined,37.667821,-122.108348
+400276,3,I280-N, San Mateo County,City of San Bruno,37.627100,-122.430565
+400277,4,I880-S, Alameda County,City of Hayward,37.636707,-122.088198
+400280,2,SR87-N, Santa Clara County,City of San Jose,37.262054,-121.858503
+400284,4,I880-N, Alameda County,City of Hayward,37.630267,-122.083308
+400287,2,I680-N, Solano County,Undefined,38.116390,-122.106098
+400289,5,SR24-W, Contra Costa County,City of Lafayette,37.896274,-122.107979
+400291,5,US101-N, San Mateo County,City of San Mateo,37.546976,-122.290032
+400292,4,I280-S, Santa Clara County,City of San Jose,37.316378,-121.972052
+400295,2,I680-N, Solano County,City of Benicia,38.069862,-122.126383
+400296,3,SR237-E, Santa Clara County,City of San Jose,37.420359,-121.939150
+400298,3,SR17-S, Santa Clara County,City of Campbell,37.293047,-121.937861
+400300,3,I880-S, Alameda County,City of Oakland,37.786178,-122.245519
+400301,4,I80-W, Contra Costa County,City of Pinole,37.998129,-122.285223
+400302,4,I580-E, Alameda County,City of Oakland,37.800558,-122.227577
+400303,4,I680-N, Contra Costa County,City of Walnut Creek,37.874650,-122.044591
+400304,4,US101-S, Marin County,Undefined,38.069309,-122.538884
+400308,4,I580-W, Alameda County,City of Oakland,37.800758,-122.227469
+400309,4,I880-N, Alameda County,City of Fremont,37.495016,-121.951359
+400312,6,I880-S, Alameda County,Undefined,37.677442,-122.118925
+400313,4,I80-W, Contra Costa County,City of Pinole,37.993511,-122.301607
+400314,2,SR92-E, San Mateo County,City of San Mateo,37.552335,-122.307355
+400315,5,US101-N, San Mateo County,City of Millbrae,37.604259,-122.382765
+400316,4,US101-N, San Mateo County,City of South San Francisco,37.637161,-122.404100
+400317,3,SR84-N, Alameda County,City of Fremont,37.526517,-122.096912
+400318,4,I280-S, San Francisco County,City of San Francisco,37.731198,-122.436258
+400319,4,I280-N, San Mateo County,Undefined,37.505280,-122.335462
+400320,2,SR13-N, Alameda County,City of Oakland,37.784113,-122.177149
+400321,5,I880-S, Alameda County,City of Hayward,37.659179,-122.103312
+400322,4,I280-N, San Francisco County,City of San Francisco,37.734299,-122.409462
+400324,4,SR4-E, Contra Costa County,Undefined,38.018713,-121.942807
+400325,4,US101-N, Santa Clara County,City of San Jose,37.304612,-121.818006
+400326,4,SR4-W, Contra Costa County,Undefined,38.021530,-121.981714
+400329,4,I80-E, Contra Costa County,City of Richmond,37.903574,-122.312440
+400330,4,US101-S, Santa Clara County,City of Sunnyvale,37.398628,-122.026802
+400331,5,US101-N, San Mateo County,Undefined,37.620720,-122.399676
+400333,4,I880-N, Alameda County,City of San Leandro,37.719584,-122.177086
+400334,5,I580-W, Alameda County,City of Livermore,37.701133,-121.819610
+400336,4,SR85-N, Santa Clara County,City of San Jose,37.250624,-121.928209
+400337,3,I80-W, Solano County,City of Vallejo,38.075741,-122.231688
+400338,4,I280-N, San Mateo County,City of Daly City,37.673450,-122.467950
+400339,4,I580-W, Alameda County,City of Oakland,37.798217,-122.216962
+400340,4,US101-S, San Mateo County,Undefined,37.623521,-122.400950
+400341,4,I880-N, Alameda County,City of Oakland,37.771469,-122.223070
+400345,5,SR24-E, Contra Costa County,City of Orinda,37.882713,-122.180200
+400349,4,US101-N, Marin County,Undefined,38.057912,-122.530824
+400350,4,I280-S, San Mateo County,Undefined,37.505148,-122.335924
+400354,5,SR24-W, Contra Costa County,City of Orinda,37.892849,-122.166614
+400359,3,I580-E, Contra Costa County,City of Richmond,37.922431,-122.357855
+400360,4,I880-N, Alameda County,City of Oakland,37.730698,-122.187572
+400363,4,I880-S, Alameda County,City of Fremont,37.505941,-121.965865
+400367,5,I80-E, Alameda County,City of Berkeley,37.852400,-122.299656
+400369,2,I680-N, Solano County,Undefined,38.088318,-122.109682
+400370,4,SR87-N, Santa Clara County,City of San Jose,37.317672,-121.889310
+400372,4,US101-S, Santa Clara County,City of Santa Clara,37.384820,-121.974251
+400380,2,I880S-S, Alameda County,City of Oakland,37.818999,-122.296819
+400382,4,US101-S, Marin County,Undefined,38.037635,-122.536716
+400388,5,US101-N, San Mateo County,City of Menlo Park,37.480426,-122.174688
+400390,4,US101-N, Marin County,City of Novato,38.081356,-122.547451
+400392,4,US101-S, Marin County,Undefined,38.063597,-122.535214
+400393,4,I680-S, Contra Costa County,City of Danville,37.837669,-122.014011
+400394,5,US101-S, Santa Clara County,City of San Jose,37.364382,-121.902692
+400395,3,I580-E, Contra Costa County,City of Richmond,37.914244,-122.325871
+400400,4,US101-N, Santa Clara County,City of San Jose,37.342410,-121.854543
+400401,4,I680-S, Contra Costa County,City of Danville,37.827616,-121.997921
+400402,6,US101-N, San Mateo County,Undefined,37.615421,-122.397724
+400411,4,I80-W, Contra Costa County,City of Richmond,37.980256,-122.317154
+400414,4,I280-N, Santa Clara County,City of San Jose,37.317942,-121.977301
+400416,2,SR17-S, Santa Clara County,City of Los Gatos,37.228152,-121.974056
+400417,4,I880-N, Alameda County,City of Fremont,37.500569,-121.958606
+400418,3,SR87-N, Santa Clara County,City of San Jose,37.291922,-121.871631
+400422,4,I880-N, Alameda County,City of San Leandro,37.715784,-122.173158
+400423,3,SR84-N, Alameda County,City of Newark,37.541467,-122.065681
+400425,4,US101-S, San Mateo County,City of East Palo Alto,37.460699,-122.141500
+400428,5,US101-N, Marin County,Undefined,38.041791,-122.536263
+400429,4,I280-S, Santa Clara County,City of San Jose,37.319424,-121.993175
+400430,5,I80-E, Contra Costa County,City of Pinole,37.992091,-122.307341
+400432,5,I80-E, Alameda County,City of Berkeley,37.863893,-122.302769
+400435,4,US101-S, Santa Clara County,City of Sunnyvale,37.403153,-122.047463
+400436,3,SR17-N, Santa Clara County,City of Campbell,37.271687,-121.947037
+400437,4,I680-S, Contra Costa County,City of Danville,37.812737,-121.993371
+400438,4,SR24-E, Contra Costa County,City of Orinda,37.877610,-122.184005
+400440,4,US101-S, Santa Clara County,City of San Jose,37.353727,-121.865827
+400442,5,I880-S, Alameda County,City of Oakland,37.730017,-122.187220
+400443,4,I80-E, Contra Costa County,City of Richmond,37.937479,-122.325945
+400444,3,SR85-N, Santa Clara County,City of San Jose,37.250250,-121.835557
+400445,4,I80-E, Contra Costa County,City of Richmond,37.932712,-122.325878
+400449,3,SR237-W, Santa Clara County,City of San Jose,37.419452,-121.955498
+400450,4,I680-N, Contra Costa County,City of Danville,37.837840,-122.013794
+400454,4,I880-S, Alameda County,City of Oakland,37.803327,-122.301708
+400457,2,SR87-S, Santa Clara County,City of San Jose,37.276926,-121.863886
+400460,4,US101-S, Marin County,Undefined,38.053750,-122.530892
+400461,3,SR85-N, Santa Clara County,City of San Jose,37.254781,-121.878917
+400462,2,I680-S, Solano County,Undefined,38.181993,-122.133971
+400463,5,I880-S, Alameda County,City of Hayward,37.661372,-122.104698
+400464,3,SR85-N, Santa Clara County,City of Los Gatos,37.258029,-121.962211
+400465,4,I80-W, Contra Costa County,City of Pinole,37.988620,-122.313232
+400470,4,I80-W, Contra Costa County,City of Richmond,37.912625,-122.317520
+400474,4,US101-N, Santa Clara County,City of San Jose,37.256295,-121.794639
+400478,4,I80-E, Contra Costa County,City of Hercules,38.014890,-122.269381
+400479,4,I880-S, Santa Clara County,City of San Jose,37.362439,-121.903211
+400480,4,I580-W, Alameda County,City of Oakland,37.824968,-122.270895
+400484,5,US101-S, San Mateo County,Undefined,37.616934,-122.398733
+400485,3,SR85-N, Santa Clara County,City of San Jose,37.254231,-121.949216
+400486,6,I880-S, Alameda County,Undefined,37.683114,-122.127218
+400487,3,SR4-E, Contra Costa County,Undefined,38.023441,-121.969126
+400488,5,I880-N, Alameda County,City of Hayward,37.608066,-122.067407
+400490,4,I880-N, Alameda County,City of Fremont,37.531271,-122.004734
+400492,4,I580-E, Alameda County,City of Oakland,37.780572,-122.173006
+400496,3,SR84-S, Alameda County,City of Newark,37.560476,-122.041091
+400497,4,US101-N, San Mateo County,City of South San Francisco,37.672002,-122.390835
+400498,4,I880-S, Alameda County,City of Oakland,37.764896,-122.217766
+400499,4,I280-N, Santa Clara County,City of Cupertino,37.330196,-122.013256
+400501,4,I80-W, Contra Costa County,Undefined,38.037848,-122.248287
+400504,2,SR92-W, San Mateo County,City of San Mateo,37.531803,-122.330055
+400505,5,I680-N, Contra Costa County,City of Pleasant Hill,37.935249,-122.060060
+400508,3,I880-S, Santa Clara County,City of San Jose,37.347660,-121.919969
+400513,4,US101-S, Marin County,Undefined,38.079501,-122.545844
+400514,3,I880-S, Santa Clara County,City of San Jose,37.334602,-121.936288
+400516,4,SR4-W, Contra Costa County,City of Concord,38.010005,-122.022018
+400519,3,SR85-S, Santa Clara County,City of San Jose,37.255257,-121.852560
+400525,5,US101-S, Marin County,Undefined,38.043798,-122.535322
+400526,3,SR4-W, Contra Costa County,Undefined,38.023694,-121.969042
+400528,3,SR85-S, Santa Clara County,City of Mountain View,37.388893,-122.068829
+400529,5,I880-N, Alameda County,Undefined,37.677613,-122.118725
+400531,5,US101-S, San Mateo County,City of San Mateo,37.550384,-122.293465
+400534,4,I880-N, Alameda County,City of Fremont,37.581087,-122.048943
+400536,5,I880-N, Alameda County,City of Union City,37.600243,-122.061912
+400538,4,I80-W, Contra Costa County,City of Pinole,37.985094,-122.315756
+400539,5,I880-N, Alameda County,City of Fremont,37.572566,-122.045996
+400540,5,US101-N, San Mateo County,City of South San Francisco,37.651586,-122.406767
+400545,4,US101-S, Santa Clara County,City of Sunnyvale,37.400130,-122.033628
+400546,5,I680-N, Alameda County,City of Dublin,37.718485,-121.936023
+400547,4,US101-S, Marin County,City of Corte Madera,37.942551,-122.515478
+400549,4,I580-W, Alameda County,City of Oakland,37.780730,-122.172868
+400551,2,I680-N, Solano County,Undefined,38.182062,-122.133740
+400552,4,I280-S, San Francisco County,City of San Francisco,37.731804,-122.421878
+400553,4,I680-S, Contra Costa County,City of San Ramon,37.755470,-121.962620
+400554,4,I680-N, Contra Costa County,City of Danville,37.822058,-121.993283
+400560,4,I280-N, Santa Clara County,City of Santa Clara,37.324839,-122.002891
+400563,3,SR87-N, Santa Clara County,City of San Jose,37.325188,-121.892923
+400565,4,I880-S, Alameda County,City of Fremont,37.577648,-122.047990
+400566,4,I680-S, Alameda County,City of Fremont,37.496379,-121.924336
+400568,6,US101-S, San Mateo County,Undefined,37.608375,-122.389578
+400570,4,I880-S, Alameda County,City of Oakland,37.776614,-122.236242
+400571,3,SR237-W, Santa Clara County,City of Santa Clara,37.414204,-121.981514
+400573,3,I280-N, San Francisco County,City of San Francisco,37.770861,-122.397356
+400574,4,I880-N, Alameda County,City of San Leandro,37.711717,-122.168258
+400576,4,I880-S, Alameda County,City of Fremont,37.529088,-122.001101
+400577,4,SR85-S, Santa Clara County,City of San Jose,37.249661,-121.835108
+400578,4,US101-S, San Mateo County,City of East Palo Alto,37.469843,-122.156614
+400579,4,SR24-E, Contra Costa County,City of Lafayette,37.890953,-122.148661
+400580,5,SR24-W, Contra Costa County,City of Lafayette,37.898160,-122.087509
+400581,2,SR237-W, Santa Clara County,City of Sunnyvale,37.380572,-122.072863
+400582,3,SR85-S, Santa Clara County,City of San Jose,37.275212,-122.004898
+400586,4,US101-S, Santa Clara County,City of San Jose,37.376835,-121.942537
+400591,5,US101-N, Santa Clara County,City of San Jose,37.304727,-121.818118
+400598,4,US101-N, Marin County,City of Novato,38.049870,-122.531433
+400600,5,SR24-W, Contra Costa County,City of Lafayette,37.891528,-122.149959
+400601,3,I880S-N, Alameda County,City of Oakland,37.817578,-122.296578
+400602,4,I680-S, Alameda County,City of Fremont,37.484231,-121.914324
+400604,4,SR24-W, Contra Costa County,City of Lafayette,37.898030,-122.092040
+400606,4,I580-W, Alameda County,City of Oakland,37.822295,-122.259770
+400607,4,I880-N, Alameda County,City of Oakland,37.774870,-122.232742
+400608,5,I880-N, Alameda County,City of Oakland,37.740952,-122.196557
+400609,5,I880-S, Alameda County,City of Oakland,37.796547,-122.270242
+400611,4,I880-N, Alameda County,City of Hayward,37.619533,-122.075651
+400612,5,I80-E, Alameda County,City of Berkeley,37.871027,-122.304954
+400615,4,SR4-E, Contra Costa County,City of Concord,38.010378,-122.016544
+400617,4,SR24-W, Contra Costa County,City of Orinda,37.878808,-122.185235
+400618,4,I680-N, Alameda County,City of Fremont,37.465720,-121.904884
+400619,4,SR24-W, Contra Costa County,City of Lafayette,37.891509,-122.132425
+400620,4,US101-S, Marin County,Undefined,38.065599,-122.536996
+400622,3,I80-E, Solano County,City of Vallejo,38.084865,-122.232917
+400625,5,I580-E, Alameda County,City of Pleasanton,37.701329,-121.871949
+400628,4,I80-W, Contra Costa County,City of Richmond,37.903475,-122.312712
+400630,5,US101-N, Marin County,Undefined,38.043717,-122.535012
+400631,4,SR4-E, Contra Costa County,Undefined,38.021073,-121.981704
+400633,3,I680-N, Alameda County,City of Fremont,37.491553,-121.918936
+400634,4,I880-S, Alameda County,City of Hayward,37.633433,-122.085877
+400636,4,I680-N, Contra Costa County,Undefined,37.862541,-122.034194
+400637,3,SR85-S, Santa Clara County,City of San Jose,37.255322,-121.855765
+400639,3,I580-E, Contra Costa County,City of Richmond,37.927097,-122.374230
+400641,4,US101-S, San Mateo County,City of Brisbane,37.703028,-122.393657
+400643,4,US101-S, Santa Clara County,City of Sunnyvale,37.390763,-121.994912
+400645,4,US101-N, San Mateo County,City of San Mateo,37.550117,-122.292942
+400648,3,SR85-S, Santa Clara County,City of San Jose,37.303016,-122.034801
+400649,2,SR17-N, Santa Clara County,City of Los Gatos,37.251741,-121.958118
+400654,3,SR87-N, Santa Clara County,City of San Jose,37.297581,-121.873949
+400656,4,US101-N, Marin County,Undefined,38.037559,-122.536356
+400657,6,US101-S, San Mateo County,Undefined,37.612870,-122.396020
+400660,4,I80-E, Contra Costa County,City of Pinole,37.998010,-122.285108
+400661,4,US101-N, San Mateo County,City of San Mateo,37.540675,-122.284186
+400662,4,I880-N, Alameda County,City of Fremont,37.522375,-121.987291
+400664,3,SR87-N, Santa Clara County,City of San Jose,37.303573,-121.877981
+400665,4,I680-S, Santa Clara County,City of San Jose,37.341821,-121.848758
+400666,6,I880-S, Alameda County,Undefined,37.674250,-122.114421
+400669,4,I880-S, Alameda County,City of Oakland,37.774755,-122.232821
+400670,5,I880-S, Alameda County,Undefined,37.664733,-122.106795
+400673,4,I280-S, Santa Clara County,City of Cupertino,37.331788,-122.016913
+400674,4,I880-N, Alameda County,City of Fremont,37.565692,-122.040628
+400675,3,I580-W, Contra Costa County,City of Richmond,37.921473,-122.336918
+400676,4,I280-N, San Francisco County,City of San Francisco,37.731577,-122.434220
+400677,4,SR85-N, Santa Clara County,City of Cupertino,37.320010,-122.048757
+400678,4,I880-N, Alameda County,City of Oakland,37.764978,-122.217592
+400679,5,I80-E, Alameda County,City of Berkeley,37.856225,-122.300735
+400681,4,I880-S, Alameda County,City of Hayward,37.629653,-122.083176
+400682,4,I880-N, Alameda County,City of Oakland,37.779555,-122.237925
+400683,3,SR92-E, San Mateo County,City of Foster City,37.567260,-122.269207
+400685,5,I880-N, Alameda County,City of Hayward,37.654859,-122.100333
+400686,4,I880-S, Alameda County,City of Fremont,37.563681,-122.038765
+400687,3,SR237-W, Santa Clara County,City of Sunnyvale,37.408459,-122.002706
+400688,4,SR85-N, Santa Clara County,City of Los Gatos,37.259412,-121.966974
+400690,3,SR85-S, Santa Clara County,City of San Jose,37.255184,-121.876817
+400691,5,I80-W, Alameda County,City of Berkeley,37.852603,-122.299937
+400692,4,I580-E, Alameda County,City of Oakland,37.786914,-122.196329
+400695,4,I680-S, Alameda County,City of Fremont,37.469056,-121.905769
+400696,4,I680-S, Contra Costa County,City of San Ramon,37.751639,-121.960097
+400698,4,I880-S, Alameda County,City of Fremont,37.500427,-121.958791
+400699,3,I80-E, Solano County,City of Vallejo,38.108294,-122.229556
+400700,3,SR85-S, Santa Clara County,Undefined,37.251345,-121.934089
+400703,4,I280-N, San Mateo County,City of Daly City,37.650243,-122.452302
+400704,2,SR4-W, Contra Costa County,Undefined,38.001602,-122.051170
+400707,4,I80-W, Contra Costa County,City of Hercules,38.014974,-122.269496
+400712,4,I680-N, Contra Costa County,City of Danville,37.835330,-122.009544
+400713,3,SR85-N, Santa Clara County,Undefined,37.251585,-121.934046
+400714,4,I280-N, Santa Clara County,City of San Jose,37.316788,-121.953512
+400715,2,SR17-N, Santa Clara County,City of Los Gatos,37.256205,-121.955355
+400716,4,I880-N, Alameda County,City of Fremont,37.549010,-122.024450
+400717,4,SR85-S, Santa Clara County,City of San Jose,37.250424,-121.912467
+400723,4,I880-S, Santa Clara County,City of San Jose,37.334296,-121.936706
+400726,4,I280-N, Santa Clara County,Undefined,37.341729,-122.091188
+400728,5,I80-E, Alameda County,City of Berkeley,37.866567,-122.303586
+400731,3,SR84-N, Alameda County,City of Fremont,37.518884,-122.104414
+400733,4,US101-S, San Mateo County,City of East Palo Alto,37.462878,-122.145152
+400734,3,I580-W, Contra Costa County,City of Richmond,37.926527,-122.365224
+400738,3,I580-W, Contra Costa County,City of Richmond,37.927273,-122.374210
+400739,4,I880-S, Alameda County,City of Fremont,37.507992,-121.968393
+400740,5,I880-S, Alameda County,City of Oakland,37.740239,-122.196203
+400741,5,I680-S, Contra Costa County,City of Danville,37.805372,-121.990474
+400742,4,US101-S, Santa Clara County,City of San Jose,37.255550,-121.793969
+400743,4,US101-S, Santa Clara County,City of Sunnyvale,37.398989,-122.028373
+400744,4,US101-S, San Mateo County,City of Brisbane,37.689976,-122.390983
+400745,2,SR4-E, Contra Costa County,Undefined,38.001327,-122.051026
+400747,5,SR24-W, Contra Costa County,City of Orinda,37.891089,-122.172893
+400748,6,SR24-E, Contra Costa County,Undefined,37.897028,-122.080378
+400749,5,I680-S, Contra Costa County,City of Walnut Creek,37.872684,-122.043391
+400750,3,SR85-N, Santa Clara County,City of San Jose,37.250746,-121.907763
+400754,3,SR85-S, Santa Clara County,City of San Jose,37.251510,-121.838854
+400755,4,I80-W, Contra Costa County,City of Richmond,37.909536,-122.316706
+400756,3,I680-S, Contra Costa County,Undefined,38.024623,-122.109998
+400759,3,SR84-N, Alameda County,City of Newark,37.541970,-122.065011
+400760,4,US101-N, Santa Clara County,City of San Jose,37.374628,-121.931055
+400763,4,US101-S, San Mateo County,City of South San Francisco,37.635030,-122.403511
+400765,4,I880-N, Alameda County,City of Oakland,37.811809,-122.303409
+400767,5,I680-S, Contra Costa County,City of Danville,37.818938,-121.993435
+400769,3,SR84-S, Alameda County,City of Fremont,37.514448,-122.107606
+400772,3,SR85-S, Santa Clara County,City of San Jose,37.250448,-121.928226
+400774,5,I680-N, Contra Costa County,City of Walnut Creek,37.881626,-122.050749
+400776,4,US101-S, San Mateo County,City of East Palo Alto,37.469698,-122.156754
+400778,4,I880-S, Alameda County,City of Fremont,37.522762,-121.988450
+400781,4,US101-S, San Mateo County,City of South San Francisco,37.672034,-122.391057
+400782,4,US101-S, Marin County,Undefined,38.049240,-122.531986
+400783,5,US101-S, San Mateo County,City of Menlo Park,37.480254,-122.174886
+400784,5,US101-S, San Mateo County,Undefined,37.618053,-122.399121
+400785,4,I680-N, Contra Costa County,Undefined,37.870941,-122.041772
+400788,4,I880-N, Alameda County,City of San Leandro,37.691415,-122.138842
+400791,5,I680-S, Santa Clara County,City of Milpitas,37.460530,-121.901055
+400792,3,SR85-S, Santa Clara County,City of San Jose,37.255491,-121.955543
+400793,4,I880-S, Alameda County,City of Oakland,37.737894,-122.194137
+400800,5,SR24-W, Contra Costa County,City of Lafayette,37.892206,-122.154409
+400801,4,I680-N, Contra Costa County,City of Walnut Creek,37.897107,-122.070775
+400803,5,I80-W, Alameda County,City of Berkeley,37.849658,-122.299219
+400805,2,I680-N, Solano County,City of Fairfield,38.204585,-122.137889
+400808,5,I80-E, Alameda County,City of Berkeley,37.849265,-122.298899
+400809,3,SR84-S, Alameda County,City of Newark,37.542255,-122.065019
+400810,4,I880-S, Alameda County,City of Fremont,37.544559,-122.021402
+400815,6,I580-W, Alameda County,City of Oakland,37.825941,-122.275114
+400818,5,I680-S, Alameda County,City of Dublin,37.718377,-121.936271
+400822,3,SR85-N, Santa Clara County,City of San Jose,37.255715,-121.955375
+400823,4,I280-S, Santa Clara County,City of Cupertino,37.334457,-122.035326
+400828,3,SR85-S, Santa Clara County,City of San Jose,37.298804,-122.030071
+400829,3,I80-E, Solano County,City of Vallejo,38.075421,-122.231255
+400835,4,I880-S, Alameda County,City of Oakland,37.794062,-122.264744
+400838,5,I80-E, Contra Costa County,City of Pinole,37.988496,-122.312983
+400839,4,I880-S, Alameda County,City of Fremont,37.580027,-122.048801
+400844,2,I880-N, Alameda County,City of Oakland,37.822794,-122.291843
+400849,3,SR87-S, Santa Clara County,City of San Jose,37.297388,-121.874289
+400853,4,I880-S, Alameda County,City of Union City,37.599700,-122.061725
+400854,3,SR4-W, Contra Costa County,Undefined,38.022898,-121.964725
+400861,2,SR92-E, San Mateo County,City of San Mateo,37.549901,-122.312556
+400863,4,US101-N, Santa Clara County,City of San Jose,37.371809,-121.916550
+400865,4,I80-E, Contra Costa County,City of Pinole,37.993360,-122.301718
+400867,3,I580-W, Contra Costa County,City of Richmond,37.919482,-122.331673
+400868,4,US101-N, San Francisco County,City of San Francisco,37.753600,-122.402898
+400869,3,SR85-S, Santa Clara County,City of Mountain View,37.403673,-122.069953
+400870,3,I680-N, Santa Clara County,City of Milpitas,37.460573,-121.900687
+400873,3,SR237-E, Santa Clara County,City of San Jose,37.420927,-121.936740
+400878,5,SR24-W, Contra Costa County,City of Lafayette,37.895657,-122.111891
+400880,4,I680-N, Contra Costa County,City of San Ramon,37.751697,-121.959796
+400883,6,I680-S, Contra Costa County,City of Walnut Creek,37.921536,-122.061952
+400884,5,US101-S, San Mateo County,City of San Mateo,37.550027,-122.293152
+400886,5,US101-S, San Mateo County,City of South San Francisco,37.637110,-122.404362
+400891,5,US101-S, Santa Clara County,City of San Jose,37.298550,-121.812553
+400892,6,I580-E, Alameda County,City of Pleasanton,37.701571,-121.907167
+400894,3,SR85-S, Santa Clara County,City of San Jose,37.242723,-121.804466
+400895,5,US101-S, Santa Clara County,City of San Jose,37.380958,-121.960741
+400898,5,I880-N, Alameda County,City of Hayward,37.661989,-122.104729
+400902,4,I80-E, Contra Costa County,City of Pinole,37.993386,-122.301536
+400904,4,US101-S, Santa Clara County,City of Sunnyvale,37.395067,-122.010518
+400905,2,SR92-W, San Mateo County,City of San Mateo,37.549976,-122.312643
+400907,3,SR85-S, Santa Clara County,City of Los Gatos,37.257815,-121.962370
+400910,4,US101-S, Santa Clara County,Undefined,37.290532,-121.809870
+400911,4,US101-N, Santa Clara County,City of San Jose,37.372674,-121.922087
+400916,3,SR87-N, Santa Clara County,City of San Jose,37.320450,-121.890147
+400923,4,I880-N, Alameda County,City of Oakland,37.824153,-122.291162
+400928,5,I880-N, Alameda County,City of Hayward,37.622820,-122.077983
+400929,5,I80-W, Contra Costa County,City of Pinole,37.992208,-122.307463
+400933,4,I680-N, Contra Costa County,Undefined,37.864341,-122.036569
+400934,3,SR85-S, Santa Clara County,City of San Jose,37.254002,-121.949365
+400941,4,I880-S, Alameda County,City of Fremont,37.492551,-121.948549
+400948,4,I580-E, Alameda County,City of Oakland,37.798410,-122.216924
+400949,4,I880-N, Alameda County,City of Oakland,37.756731,-122.210399
+400950,4,I580-W, Alameda County,City of Oakland,37.809255,-122.244378
+400951,4,I880-N, Santa Clara County,Undefined,37.325584,-121.940683
+400952,3,SR85-N, Santa Clara County,City of Saratoga,37.279234,-122.010350
+400954,3,I680-S, Contra Costa County,Undefined,38.024575,-122.110237
+400955,5,I880-N, Alameda County,City of Oakland,37.732945,-122.189517
+400958,5,I680-S, Contra Costa County,City of San Ramon,37.784160,-121.979058
+400961,2,I680-S, Solano County,Undefined,38.088410,-122.109902
+400962,4,US101-N, Marin County,Undefined,38.063680,-122.534971
+400963,3,SR85-S, Santa Clara County,City of San Jose,37.241254,-121.798377
+400964,3,US101-N, Santa Clara County,City of San Jose,37.376685,-121.940750
+400965,4,US101-N, Santa Clara County,City of San Jose,37.363311,-121.893592
+400966,3,SR84-N, Alameda County,City of Fremont,37.532729,-122.084876
+400970,3,SR237-E, Santa Clara County,City of Sunnyvale,37.409755,-121.995933
+400971,4,I880-S, Santa Clara County,City of San Jose,37.368669,-121.901336
+400972,4,I680-N, Contra Costa County,City of Danville,37.812878,-121.993112
+400973,3,SR237-E, Santa Clara County,City of Santa Clara,37.417801,-121.972288
+400977,4,US101-S, San Mateo County,Undefined,37.620575,-122.399975
+400978,4,US101-S, Santa Clara County,Undefined,37.282486,-121.808807
+400983,3,I880-N, Alameda County,City of Oakland,37.786336,-122.245364
+400986,5,I580-E, Alameda County,City of Pleasanton,37.701309,-121.867570
+400988,5,I680-N, Contra Costa County,City of San Ramon,37.784242,-121.978779
+400991,6,US101-S, San Mateo County,Undefined,37.615306,-122.397970
+400993,4,SR4-W, Contra Costa County,Undefined,38.015805,-121.993125
+400995,5,SR87-S, Santa Clara County,City of San Jose,37.313400,-121.886380
+400996,4,US101-N, Santa Clara County,City of San Jose,37.350928,-121.862378
+400999,4,SR4-W, Contra Costa County,Undefined,38.018917,-121.987525
+401003,5,I880-N, Alameda County,City of Hayward,37.659267,-122.103058
+401006,4,I580-E, Alameda County,City of Pleasanton,37.701529,-121.904795
+401009,4,SR4-E, Contra Costa County,Undefined,38.018499,-121.987500
+401011,4,I880-N, Alameda County,City of Fremont,37.563362,-122.038123
+401012,2,SR92-E, San Mateo County,City of San Mateo,37.531780,-122.329900
+401014,3,SR237-W, Santa Clara County,City of San Jose,37.420505,-121.939200
+401015,4,I580-W, Alameda County,City of Oakland,37.783815,-122.178637
+401016,4,I280-N, San Mateo County,City of South San Francisco,37.645184,-122.448868
+401017,4,I580-W, Alameda County,City of Oakland,37.805197,-122.234712
+401018,4,I280-S, San Francisco County,City of San Francisco,37.732647,-122.414119
+401038,4,I880-S, Alameda County,City of Fremont,37.589412,-122.054410
+401041,4,I80-W, Contra Costa County,City of Richmond,37.969653,-122.320506
+401045,4,I80-E, Contra Costa County,City of Richmond,37.924801,-122.320238
+401048,3,SR92-E, San Mateo County,City of Foster City,37.600420,-122.211759
+401052,4,I80-W, Contra Costa County,City of Richmond,37.898689,-122.309697
+401053,2,SR92-E, San Mateo County,City of San Mateo,37.553585,-122.293070
+401056,3,I680-S, Contra Costa County,City of Walnut Creek,37.904160,-122.069955
+401058,4,I80-E, Contra Costa County,City of Hercules,38.010911,-122.273035
+401060,3,SR92-W, San Mateo County,City of Foster City,37.603264,-122.202119
+401061,3,SR92-E, San Mateo County,City of Foster City,37.595177,-122.229906
+401062,4,I880-N, Alameda County,City of Fremont,37.585620,-122.051459
+401065,3,SR92-W, San Mateo County,City of San Mateo,37.553869,-122.293168
+401066,6,I80-W, Alameda County,City of Berkeley,37.878125,-122.307431
+401067,3,SR92-E, San Mateo County,City of Foster City,37.597925,-122.220401
+401068,5,I880-S, Alameda County,City of San Leandro,37.703701,-122.156989
+401072,4,I880-S, Alameda County,Undefined,37.686580,-122.132116
+401073,4,I880-S, Alameda County,City of Fremont,37.585543,-122.051649
+401078,3,SR92-W, San Mateo County,City of Foster City,37.600471,-122.211810
+401079,5,I80-E, Alameda County,City of Berkeley,37.878155,-122.307214
+401083,4,I80-W, Contra Costa County,City of Hercules,38.013465,-122.270906
+401084,5,I80-W, Contra Costa County,Undefined,38.005231,-122.278633
+401085,3,SR92-W, San Mateo County,City of Foster City,37.595242,-122.229984
+401086,3,SR92-W, San Mateo County,City of Foster City,37.577298,-122.258571
+401090,5,I80-E, Contra Costa County,City of Hercules,38.013374,-122.270787
+401091,3,SR92-W, San Mateo County,City of Foster City,37.597987,-122.220468
+401094,4,US101-N, Santa Clara County,City of Sunnyvale,37.399022,-122.027618
+401095,4,I680-N, Contra Costa County,City of Walnut Creek,37.900981,-122.070169
+401097,4,I680-S, Contra Costa County,City of Danville,37.833445,-122.007025
+401098,5,I680-N, Contra Costa County,City of San Ramon,37.797400,-121.985917
+401100,6,I680-S, Contra Costa County,Undefined,38.000002,-122.076579
+401102,4,I680-N, Contra Costa County,City of San Ramon,37.748063,-121.957578
+401103,5,I680-S, Contra Costa County,City of Danville,37.788269,-121.981320
+401104,4,I680-N, Contra Costa County,City of Danville,37.833635,-122.006807
+401106,3,SR24-W, Contra Costa County,Undefined,37.899643,-122.070452
+401107,5,I680-N, Contra Costa County,City of San Ramon,37.788356,-121.981035
+401110,4,I680-S, Contra Costa County,City of Walnut Creek,37.901017,-122.070583
+401111,4,I680-S, Contra Costa County,City of Walnut Creek,37.906118,-122.069500
+401112,4,I680-N, Contra Costa County,City of Danville,37.831978,-122.004266
+401113,5,I680-N, Contra Costa County,Undefined,38.000044,-122.076343
+401114,5,I680-S, Contra Costa County,City of Danville,37.797293,-121.986149
+401118,4,I680-S, Contra Costa County,Undefined,37.896894,-122.071023
+401121,3,SR24-E, Contra Costa County,Undefined,37.899646,-122.070870
+401124,4,I680-S, Contra Costa County,City of Danville,37.828677,-121.999652
+401126,4,I680-S, Contra Costa County,City of San Ramon,37.748018,-121.957858
+401129,4,SR87-N, Santa Clara County,City of San Jose,37.266772,-121.859000
+401134,3,I780-E, Solano County,City of Benicia,38.059722,-122.151449
+401137,3,I980-W, Alameda County,City of Oakland,37.806967,-122.278034
+401141,4,I880-S, Alameda County,City of Oakland,37.802658,-122.286768
+401142,4,I880-N, Alameda County,City of Oakland,37.802856,-122.286698
+401143,2,I880-N, Alameda County,City of Oakland,37.829005,-122.292846
+401144,3,I980-E, Alameda County,City of Oakland,37.806870,-122.277794
+401148,2,I780-W, Solano County,City of Benicia,38.059778,-122.151192
+401151,5,I80-E, Solano County,City of Fairfield,38.251746,-122.067825
+401152,5,I80-W, Solano County,City of Fairfield,38.257804,-122.063012
+401154,3,SR87-S, Santa Clara County,City of San Jose,37.266765,-121.859416
+401155,5,I80-W, Solano County,City of Fairfield,38.258526,-122.062402
+401156,2,I880-S, Alameda County,City of Oakland,37.826968,-122.292265
+401162,4,I80-E, San Francisco County,City of San Francisco,37.773831,-122.406377
+401163,5,I280-S, Santa Clara County,City of San Jose,37.316756,-121.923186
+401165,5,I80-W, San Francisco County,City of San Francisco,37.773775,-122.406729
+401167,5,I280-N, Santa Clara County,City of San Jose,37.316984,-121.923208
+401176,2,SR4-E, Contra Costa County,City of Hercules,38.014612,-122.250082
+401177,7,I280-S, Santa Clara County,City of San Jose,37.316250,-121.966065
+401180,2,SR1-N, San Francisco County,City of San Francisco,37.790676,-122.470123
+401185,3,SR4-W, Contra Costa County,City of Hercules,38.014812,-122.250096
+401186,5,I280-N, Santa Clara County,City of San Jose,37.316507,-121.966001
+401188,2,SR1-S, San Francisco County,City of San Francisco,37.790760,-122.470272
+401190,2,I980-E, Alameda County,City of Oakland,37.800128,-122.278344
+401194,2,US101-N, San Francisco County,City of San Francisco,37.775434,-122.424059
+401201,3,SR92-W, Alameda County,City of Hayward,37.635671,-122.101773
+401208,2,I580-W, Alameda County,City of Oakland,37.890467,-122.308444
+401211,6,I80-W, Alameda County,City of Emeryville,37.841080,-122.297280
+401212,4,SR92-W, Alameda County,City of Hayward,37.631515,-122.111747
+401213,4,I280-N, San Mateo County,City of San Bruno,37.638945,-122.441186
+401215,4,I80-W, Contra Costa County,City of Richmond,37.975598,-122.318706
+401216,5,I80-W, Solano County,City of Fairfield,38.214705,-122.140926
+401218,2,I580-E, Alameda County,City of Oakland,37.891533,-122.308848
+401219,4,I80-W, Solano County,City of Fairfield,38.201274,-122.158165
+401221,4,I80-E, Contra Costa County,City of Richmond,37.943467,-122.323784
+401223,2,SR92-W, San Mateo County,Undefined,37.507295,-122.338218
+401224,3,SR85-S, Santa Clara County,City of Saratoga,37.291054,-122.023638
+401226,4,I80-W, Contra Costa County,City of Hercules,38.013931,-122.270475
+401229,4,I80-W, Contra Costa County,City of Richmond,37.912480,-122.317515
+401230,4,I80-W, Contra Costa County,City of Pinole,37.996849,-122.286694
+401231,4,US101-S, San Francisco County,City of San Francisco,37.762943,-122.405434
+401234,4,I80-W, Alameda County,City of Albany,37.894380,-122.307952
+401236,3,SR92-W, Alameda County,City of Foster City,37.616012,-122.158436
+401238,4,I80-E, Contra Costa County,City of Hercules,38.013844,-122.270359
+401239,4,I80-E, Alameda County,City of Albany,37.889597,-122.308245
+401240,4,I880-S, Alameda County,City of Hayward,37.613899,-122.071851
+401241,3,US101-S, San Francisco County,City of San Francisco,37.769350,-122.411093
+401242,5,I80-W, Alameda County,City of Berkeley,37.863205,-122.302899
+401243,4,I80-E, Contra Costa County,City of Richmond,37.969552,-122.320607
+401247,2,SR92-W, Alameda County,City of Foster City,37.613873,-122.165567
+401253,4,I80-W, Contra Costa County,City of Richmond,37.943406,-122.323941
+401259,4,SR92-E, Alameda County,City of Hayward,37.631321,-122.111672
+401260,4,I80-E, Contra Costa County,City of Richmond,37.979209,-122.317341
+401264,2,US101-N, San Francisco County,City of San Francisco,37.776053,-122.423651
+401267,4,I80-W, Contra Costa County,City of Richmond,37.979264,-122.317472
+401270,2,SR92-E, Alameda County,City of Foster City,37.613776,-122.165545
+401271,3,SR92-E, Alameda County,City of Hayward,37.627408,-122.123036
+401274,4,I80-W, Contra Costa County,City of Hercules,38.024988,-122.260189
+401277,5,US101-N, San Francisco County,City of San Francisco,37.743020,-122.406392
+401280,7,I680-S, Contra Costa County,City of Pleasant Hill,37.942308,-122.059625
+401282,3,SR242-N, Contra Costa County,City of Concord,37.969613,-122.047880
+401283,6,I680-S, Contra Costa County,City of Walnut Creek,37.927899,-122.060572
+401285,5,US101-S, San Francisco County,City of San Francisco,37.744018,-122.405853
+401289,3,SR242-S, Contra Costa County,City of Concord,37.969653,-122.048119
+401298,3,SR92-W, San Mateo County,City of San Mateo,37.554703,-122.289899
+401301,3,SR84-S, Alameda County,City of Newark,37.558160,-122.043189
+401304,3,SR84-N, Alameda County,City of Newark,37.558016,-122.042978
+401305,3,SR92-W, San Mateo County,City of San Mateo,37.561736,-122.276623
+401314,4,I680-N, Contra Costa County,City of Danville,37.823179,-121.993641
+401317,4,I280-N, Santa Clara County,Undefined,37.315366,-121.914510
+401318,4,I80-E, Solano County,City of Fairfield,38.201959,-122.156983
+401327,4,I280-S, Santa Clara County,City of San Jose,37.315095,-121.914498
+401328,4,I680-S, Contra Costa County,City of Danville,37.823087,-121.993916
+401339,4,I880-S, Alameda County,City of Oakland,37.801684,-122.283150
+401343,3,SR92-E, San Mateo County,City of Foster City,37.562381,-122.275160
+401344,6,I680-S, Contra Costa County,City of Walnut Creek,37.889026,-122.057976
+401347,4,I680-S, Contra Costa County,City of San Ramon,37.761225,-121.966381
+401351,2,SR237-W, Santa Clara County,City of Sunnyvale,37.401701,-122.032879
+401356,4,I680-S, Contra Costa County,City of Dublin,37.729126,-121.944735
+401357,5,US101-S, San Francisco County,City of San Francisco,37.723512,-122.401258
+401359,4,I680-N, Contra Costa County,City of Dublin,37.729240,-121.944471
+401362,4,I880-S, Alameda County,City of Fremont,37.530650,-122.003967
+401366,5,I680-S, Contra Costa County,Undefined,37.869060,-122.040707
+401371,3,I80-W, San Francisco County,City of San Francisco,37.768938,-122.405503
+401372,2,SR1-N, San Francisco County,City of San Francisco,37.800668,-122.469422
+401373,4,I680-N, Contra Costa County,Undefined,37.869194,-122.040484
+401376,4,I880-S, Alameda County,City of Oakland,37.799723,-122.278336
+401378,4,I80-E, San Francisco County,City of San Francisco,37.768835,-122.405123
+401390,3,SR24-W, Alameda County,City of Oakland,37.827408,-122.267734
+401391,2,I280-S, Santa Clara County,City of San Jose,37.337881,-121.854670
+401393,3,SR242-N, Contra Costa County,City of Concord,37.978869,-122.043278
+401394,4,SR92-W, San Mateo County,City of San Mateo,37.559310,-122.280483
+401395,4,I80-W, Contra Costa County,Undefined,38.045336,-122.237690
+401399,3,SR242-S, Contra Costa County,City of Concord,37.979212,-122.043366
+401400,6,I280-N, Santa Clara County,City of San Jose,37.316841,-121.952427
+401401,4,SR242-N, Contra Costa County,City of Concord,37.979004,-122.043205
+401403,2,I280-N, Santa Clara County,City of San Jose,37.338232,-121.854583
+401405,2,US101-S, San Francisco County,City of San Francisco,37.769586,-122.416414
+401407,6,I680-N, Contra Costa County,City of Walnut Creek,37.921450,-122.061659
+401408,4,US101-S, San Francisco County,City of San Francisco,37.758690,-122.405643
+401411,4,US101-N, San Mateo County,Undefined,37.609584,-122.391015
+401412,6,I580-E, Alameda County,City of Livermore,37.700881,-121.821947
+401416,5,I980-W, Alameda County,City of Oakland,37.812036,-122.274125
+401421,2,I680-S, Solano County,Undefined,38.144989,-122.109978
+401422,5,I680-N, Contra Costa County,City of San Ramon,37.800607,-121.988066
+401424,2,I680-N, Solano County,Undefined,38.145037,-122.109720
+401426,2,SR92-E, San Mateo County,City of San Mateo,37.547060,-122.322765
+401431,2,SR92-W, San Mateo County,City of San Mateo,37.547175,-122.322876
+401433,6,I580-E, Alameda County,City of Pleasanton,37.701390,-121.885271
+401434,4,I680-N, Contra Costa County,City of Dublin,37.725125,-121.941304
+401437,4,I680-S, Contra Costa County,Undefined,37.857175,-122.030850
+401439,4,US101-S, San Mateo County,City of San Mateo,37.543495,-122.287061
+401440,4,I880-S, Santa Clara County,City of San Jose,37.356826,-121.908804
+401441,4,I680-N, Contra Costa County,City of San Ramon,37.777418,-121.975236
+401443,4,US101-N, San Mateo County,City of Belmont,37.529353,-122.273421
+401444,4,I680-N, Contra Costa County,Undefined,37.857348,-122.030612
+401446,4,US101-S, San Mateo County,City of San Mateo,37.543613,-122.287169
+401448,4,US101-N, San Mateo County,City of South San Francisco,37.664493,-122.397910
+401450,4,I880-S, Alameda County,City of Hayward,37.617540,-122.074491
+401451,4,US101-S, San Mateo County,City of South San Francisco,37.664501,-122.398123
+401452,4,I580-E, Alameda County,City of Oakland,37.811293,-122.249829
+401454,4,US101-S, San Francisco County,City of San Francisco,37.717182,-122.399154
+401457,4,SR87-S, Santa Clara County,City of San Jose,37.279615,-121.864989
+401461,4,I680-S, Contra Costa County,City of San Ramon,37.758541,-121.964623
+401462,4,US101-S, San Mateo County,City of Brisbane,37.693677,-122.391827
+401464,4,I880-N, Santa Clara County,City of Milpitas,37.424833,-121.916049
+401466,4,I280-S, Santa Clara County,City of San Jose,37.329002,-121.869354
+401468,4,I680-N, Contra Costa County,City of San Ramon,37.774566,-121.973790
+401469,4,US101-N, San Mateo County,City of Brisbane,37.693641,-122.391505
+401470,4,I280-S, San Francisco County,City of San Francisco,37.731979,-122.427875
+401471,3,I880S-N, Alameda County,City of Oakland,37.827889,-122.291780
+401472,5,US101-N, San Mateo County,City of Brisbane,37.700468,-122.393067
+401474,5,US101-N, San Mateo County,City of Menlo Park,37.474830,-122.165147
+401476,4,SR4-W, Contra Costa County,City of Concord,38.013633,-121.998755
+401478,6,I580-W, Alameda County,City of Oakland,37.822927,-122.261851
+401481,6,I580-E, Alameda County,City of Oakland,37.822748,-122.262051
+401482,6,SR24-W, Contra Costa County,Undefined,37.897241,-122.080430
+401483,4,I580-W, Alameda County,City of Oakland,37.816343,-122.251589
+401484,4,I680-S, Contra Costa County,Undefined,37.864184,-122.036790
+401486,4,I280-N, San Francisco County,City of San Francisco,37.731414,-122.424609
+401488,2,I680-S, Solano County,City of Fairfield,38.204576,-122.138126
+401489,4,I880-N, Santa Clara County,City of Milpitas,37.427486,-121.916962
+401491,8,I80-E, Alameda County,City of Emeryville,37.835268,-122.295032
+401492,3,I680-S, Alameda County,City of Fremont,37.465693,-121.905247
+401495,4,SR85-S, Santa Clara County,City of San Jose,37.255346,-121.858980
+401496,5,I680-S, Contra Costa County,Undefined,37.995914,-122.071304
+401503,7,I80-W, Alameda County,City of Oakland,37.825278,-122.306420
+401507,6,US101-N, Santa Clara County,City of Mountain View,37.410128,-122.073182
+401509,4,I80-E, Contra Costa County,City of Richmond,37.904465,-122.313054
+401512,4,I280-S, San Mateo County,City of Daly City,37.675831,-122.470236
+401515,5,US101-S, San Mateo County,Undefined,37.613439,-122.396584
+401517,5,I880-N, Alameda County,City of San Leandro,37.703862,-122.156797
+401519,5,I680-S, Contra Costa County,City of Walnut Creek,37.881497,-122.050948
+401522,6,I680-S, Contra Costa County,City of Walnut Creek,37.925315,-122.060865
+401523,4,US101-S, San Mateo County,City of South San Francisco,37.651581,-122.406957
+401524,5,I80-W, Alameda County,City of Berkeley,37.877407,-122.307241
+401525,4,SR4-E, Contra Costa County,Undefined,38.023506,-121.974637
+401526,4,SR4-W, Contra Costa County,Undefined,38.019453,-121.949263
+401529,4,I880-N, Alameda County,City of Fremont,37.589488,-122.054221
+401531,6,I580-W, Alameda County,City of Livermore,37.701026,-121.811033
+401534,4,US101-N, Santa Clara County,City of Mountain View,37.407511,-122.065278
+401538,6,I880-N, Santa Clara County,City of Milpitas,37.430587,-121.917925
+401539,7,I80-W, Alameda County,City of Oakland,37.826038,-122.302202
+401541,3,I880-N, Santa Clara County,City of San Jose,37.370203,-121.901514
+401542,6,I680-N, Contra Costa County,City of Walnut Creek,37.906070,-122.069211
+401545,5,I880-N, Alameda County,City of Fremont,37.559198,-122.033620
+401546,5,I80-E, Alameda County,City of Oakland,37.821995,-122.324536
+401548,4,I580-E, Alameda County,City of Oakland,37.816339,-122.251805
+401551,5,I80-E, Contra Costa County,City of Richmond,37.972158,-122.319728
+401555,3,SR85-N, Santa Clara County,City of San Jose,37.255657,-121.858984
+401556,5,I80-W, Alameda County,City of Oakland,37.822185,-122.324796
+401557,4,I880-S, Alameda County,City of Fremont,37.559063,-122.033816
+401559,5,I80-E, Alameda County,City of Berkeley,37.877450,-122.307025
+401561,5,I880-N, Alameda County,City of Hayward,37.614012,-122.071623
+401562,2,I880S-S, Alameda County,City of Oakland,37.827984,-122.293358
+401564,7,I580-E, Alameda County,City of Livermore,37.700775,-121.810998
+401566,4,I680-N, Contra Costa County,City of Walnut Creek,37.884715,-122.054134
+401567,4,SR87-N, Santa Clara County,City of San Jose,37.279721,-121.864592
+401568,4,SR4-E, Contra Costa County,City of Concord,38.013214,-121.998513
+401573,4,SR4-W, Contra Costa County,Undefined,38.023921,-121.974570
+401578,3,US101-N, Santa Clara County,Undefined,37.135468,-121.635731
+401579,3,US101-S, Santa Clara County,Undefined,37.140073,-121.640223
+401580,6,I680-S, Alameda County,City of Dublin,37.710606,-121.929761
+401581,3,US101-N, Santa Clara County,Undefined,37.132846,-121.634117
+401582,5,I680-N, Alameda County,City of Dublin,37.704268,-121.924196
+401583,4,I680-N, Alameda County,City of Fremont,37.484383,-121.913951
+401586,3,US101-N, Santa Clara County,Undefined,37.140251,-121.639919
+401587,5,I680-N, Alameda County,City of Dublin,37.708058,-121.927287
+401588,4,I680-S, Alameda County,City of Dublin,37.723408,-121.940306
+401590,5,I680-S, Alameda County,City of Dublin,37.707936,-121.927518
+401592,3,US101-N, Santa Clara County,Undefined,37.070786,-121.589373
+401593,4,I680-N, Alameda County,City of Dublin,37.723508,-121.940050
+401594,4,I680-N, Alameda County,City of Dublin,37.710724,-121.929526
+401597,3,SR87-N, Santa Clara County,City of San Jose,37.284600,-121.867327
+401598,3,US101-N, Sonoma County,Undefined,38.385828,-122.716069
+401599,3,US101-S, Sonoma County,Undefined,38.413712,-122.716200
+401600,4,I580-W, Alameda County,City of Pleasanton,37.701707,-121.887618
+401601,3,US101-S, Sonoma County,City of Rohnert Park,38.368371,-122.712467
+401602,3,US101-N, Sonoma County,City of Santa Rosa,38.421215,-122.715338
+401603,3,US101-N, Sonoma County,City of Santa Rosa,38.413693,-122.715906
+401605,3,US101-N, Sonoma County,Undefined,38.364327,-122.712405
+401606,3,SR87-S, Santa Clara County,City of San Jose,37.284463,-121.867693
+401608,3,I680-N, Alameda County,City of Dublin,37.697834,-121.921348
+401609,3,US101-S, Sonoma County,City of Santa Rosa,38.420521,-122.715784
+401610,4,I980-W, Alameda County,City of Oakland,37.810554,-122.275579
+401611,3,I880-S, Santa Clara County,Undefined,37.317672,-121.940319
+401612,4,SR4-W, Contra Costa County,City of Concord,38.004797,-122.038847
+401613,4,I880-N, Alameda County,City of Fremont,37.592711,-122.056527
+401614,4,I880-S, Alameda County,City of Union City,37.592635,-122.056711
+401615,3,I980-E, Alameda County,City of Oakland,37.810407,-122.275345
+401616,5,US101-N, Marin County,City of Novato,38.069425,-122.538644
+401617,4,SR4-E, Contra Costa County,City of Concord,38.004566,-122.038700
+401619,3,SR84-N, San Mateo County,City of Menlo Park,37.483259,-122.167533
+401620,4,US101-N, San Mateo County,City of Burlingame,37.602493,-122.380088
+401621,6,I880-S, Alameda County,City of San Leandro,37.713988,-122.171625
+401623,3,SR84-S, San Mateo County,City of Menlo Park,37.483444,-122.167562
+401624,4,US101-N, Marin County,City of San Rafael,37.947043,-122.513505
+401625,3,SR84-N, San Mateo County,City of Menlo Park,37.484877,-122.172398
+401626,3,SR84-N, San Mateo County,City of Menlo Park,37.482205,-122.149027
+401627,3,SR84-N, San Mateo County,City of Menlo Park,37.491680,-122.136681
+401628,3,SR84-S, San Mateo County,City of Menlo Park,37.485009,-122.172450
+401629,5,I880-N, Alameda County,City of San Leandro,37.714115,-122.171416
+401631,4,US101-S, San Mateo County,City of Burlingame,37.602960,-122.381221
+401632,3,SR84-S, San Mateo County,City of Menlo Park,37.491784,-122.136848
+401633,3,SR84-S, San Mateo County,City of Menlo Park,37.482315,-122.149034
+401634,5,US101-S, San Mateo County,City of Burlingame,37.602406,-122.380374
+401636,4,I80-W, Solano County,Undefined,38.064357,-122.226272
+401637,5,I880-S, Alameda County,City of Milpitas,37.456200,-121.923217
+401639,4,I880-N, Alameda County,City of Fremont,37.508725,-121.968989
+401642,6,I880-S, Santa Clara County,City of Milpitas,37.451227,-121.922218
+401643,5,I880-N, Alameda County,City of Milpitas,37.456422,-121.923067
+401645,4,I80-W, Contra Costa County,City of San Pablo,37.962454,-122.328958
+401649,4,US101-S, San Mateo County,City of Menlo Park,37.485259,-122.188331
+401651,4,US101-S, San Mateo County,City of Redwood City,37.508500,-122.250123
+401652,4,US101-N, San Mateo County,City of Redwood City,37.508634,-122.249967
+401653,4,US101-N, San Mateo County,City of Menlo Park,37.483811,-122.181671
+401655,5,I280-N, Santa Clara County,City of San Jose,37.335596,-121.858919
+401657,4,I80-E, Alameda County,City of Oakland,37.825581,-122.302794
+401658,4,US101-N, Santa Clara County,Undefined,37.220762,-121.734732
+401660,3,US101-N, Santa Clara County,Undefined,37.152115,-121.651553
+401661,4,US101-S, Santa Clara County,City of San Jose,37.200086,-121.707386
+401663,4,US101-N, Santa Clara County,Undefined,37.153831,-121.653220
+401666,1,SR25-S, Santa Clara County,Undefined,36.950307,-121.521775
+401669,4,US101-S, Santa Clara County,Undefined,37.220499,-121.734981
+401670,4,US101-N, Santa Clara County,City of San Jose,37.200408,-121.707061
+401671,3,I80-E, Alameda County,City of Oakland,37.828559,-122.294113
+401673,4,I80-W, Contra Costa County,Undefined,38.044315,-122.239419
+401674,1,SR25-N, Santa Clara County,Undefined,36.948171,-121.512600
+401676,3,I80-E, Contra Costa County,Undefined,38.052365,-122.227800
+401678,1,SR25-S, Santa Clara County,Undefined,36.952601,-121.527114
+401680,1,SR25-N, Santa Clara County,Undefined,36.962635,-121.543680
+401683,5,SR24-W, Contra Costa County,City of Orinda,37.892206,-122.154409
+401684,4,SR24-E, Contra Costa County,City of Lafayette,37.897341,-122.099019
+401686,3,SR238-S, Alameda County,Undefined,37.688902,-122.106837
+401688,1,SR25-S, Santa Clara County,Undefined,36.954824,-121.529440
+401689,5,SR24-W, Contra Costa County,City of Orinda,37.891089,-122.172893
+401691,3,US101-S, Santa Clara County,City of Gilroy,37.003288,-121.556692
+401692,4,SR24-W, Contra Costa County,City of Lafayette,37.898030,-122.092040
+401693,2,SR37-W, Solano County,City of Vallejo,38.137248,-122.256532
+401694,3,SR37-E, Solano County,City of Vallejo,38.137738,-122.255984
+401695,4,I580-E, Alameda County,City of Pleasanton,37.701324,-121.920446
+401696,2,SR37-E, Solano County,City of Vallejo,38.137205,-122.256577
+401697,5,I680-N, Alameda County,City of Dublin,37.702126,-121.923042
+401698,5,I80-W, Alameda County,City of Emeryville,37.836012,-122.295891
+401699,2,SR37-W, Solano County,City of Vallejo,38.141954,-122.246347
+401700,2,SR37-W, Solano County,City of Vallejo,38.137782,-122.255936
+401701,2,SR37-E, Solano County,City of Vallejo,38.141860,-122.246347
+401702,2,SR37-E, Solano County,City of Vallejo,38.123781,-122.271749
+401703,2,SR37-W, Solano County,City of Vallejo,38.123853,-122.271793
+401704,2,SR37-W, Solano County,City of Vallejo,38.121697,-122.277273
+401705,3,I680-S, Alameda County,City of Dublin,37.702047,-121.923296
+401706,2,SR37-E, Solano County,City of Vallejo,38.121597,-122.277230
+401708,4,I880-S, Alameda County,City of Oakland,37.801951,-122.295247
+401714,4,I880-S, Alameda County,City of Oakland,37.800363,-122.279928
+401716,4,I880-S, Alameda County,City of Hayward,37.607967,-122.067645
+401718,5,I680-N, Contra Costa County,Undefined,37.993685,-122.068952
+401722,6,I680-S, Alameda County,City of Dublin,37.714484,-121.933030
+401724,4,I680-N, Contra Costa County,City of Danville,37.849540,-122.028342
+401728,3,US101-S, Sonoma County,City of Rohnert Park,38.348778,-122.713170
+401734,6,I680-S, Contra Costa County,City of Pleasant Hill,37.946698,-122.057698
+401742,4,I680-N, Contra Costa County,City of Concord,37.962762,-122.054051
+401748,4,I680-S, Contra Costa County,City of Concord,37.967071,-122.057013
+401756,2,SR4-W, Contra Costa County,Undefined,37.995203,-122.068350
+401770,5,I680-N, Contra Costa County,City of Pleasant Hill,37.946637,-122.057441
+401774,4,I680-S, Contra Costa County,City of Concord,37.962792,-122.054325
+401778,5,I680-N, Contra Costa County,City of Pleasant Hill,37.943360,-122.058881
+401781,5,I80-E, Solano County,City of Fairfield,38.218378,-122.135157
+401782,5,I80-W, Solano County,City of Fairfield,38.220082,-122.133174
+401785,6,I80-W, Solano County,City of Fairfield,38.223664,-122.127834
+401787,5,I80-E, Solano County,Undefined,38.227089,-122.121342
+401788,5,I80-W, Solano County,Undefined,38.230959,-122.113197
+401790,5,I80-W, Solano County,Undefined,38.234207,-122.105771
+401791,5,I80-E, Solano County,Undefined,38.233999,-122.105578
+401792,3,I80-E, Contra Costa County,Undefined,38.034447,-122.251193
+401793,4,I80-E, Contra Costa County,Undefined,38.045274,-122.238047
+401794,5,I680-S, Contra Costa County,City of Walnut Creek,37.874521,-122.044856
+401796,2,SR29-N, Napa County,City of Napa,38.321776,-122.309316
+401797,2,SR29-S, Napa County,City of Napa,38.321719,-122.309541
+401798,2,SR29-S, Napa County,City of Napa,38.317605,-122.307867
+401799,2,SR29-N, Napa County,City of Napa,38.317645,-122.307697
+401800,3,SR84-N, Alameda County,City of Fremont,37.522542,-122.101406
+401801,3,SR84-N, San Mateo County,City of Menlo Park,37.485496,-122.174912
+401802,4,SR84-S, San Mateo County,City of Menlo Park,37.485496,-122.175057
+401808,6,I280-N, Santa Clara County,City of San Jose,37.334883,-121.860066
+401809,6,I280-S, Santa Clara County,City of San Jose,37.334524,-121.860098
+401810,5,I280-N, Santa Clara County,City of San Jose,37.325920,-121.883989
+401811,5,I280-S, Santa Clara County,City of San Jose,37.325651,-121.883953
+401816,2,SR87-S, Santa Clara County,Undefined,37.371198,-121.927225
+401817,4,SR87-N, Santa Clara County,Undefined,37.371142,-121.926848
+401818,6,I680-S, Contra Costa County,City of Walnut Creek,37.891870,-122.063101
+401820,2,US101-S, San Francisco County,City of San Francisco,37.769613,-122.416876
+401825,4,SR4-W, Contra Costa County,Undefined,38.019963,-121.901902
+401826,4,SR4-E, Contra Costa County,Undefined,38.019799,-121.901948
+401829,4,SR4-E, Contra Costa County,City of Pittsburg,38.018367,-121.894706
+401830,5,SR4-W, Contra Costa County,City of Pittsburg,38.017313,-121.889768
+401831,4,US101-S, San Mateo County,City of Belmont,37.521724,-122.265071
+401832,4,US101-N, San Mateo County,City of Redwood City,37.516368,-122.258712
+401833,5,US101-N, San Mateo County,City of Redwood City,37.496427,-122.233186
+401834,4,US101-N, San Mateo County,City of Redwood City,37.496277,-122.232673
+401835,4,US101-N, San Mateo County,City of Redwood City,37.491388,-122.218882
+401837,4,US101-S, San Mateo County,City of Redwood City,37.490595,-122.217518
+401838,3,SR4-W, Contra Costa County,City of Hercules,38.013394,-122.263241
+401839,3,SR4-E, Contra Costa County,City of Hercules,38.013398,-122.263257
+401840,5,I680-S, Contra Costa County,City of Walnut Creek,37.881522,-122.050938
+401842,2,SR238-S, Alameda County,Undefined,37.688880,-122.107017
+401844,3,SR238-S, Alameda County,Undefined,37.690459,-122.090275
+401846,4,I280-S, Santa Clara County,City of Cupertino,37.332482,-122.060617
+401851,6,I580-W, Alameda County,City of Pleasanton,37.701673,-121.883255
+401852,6,I580-E, Alameda County,City of Pleasanton,37.701391,-121.883264
+401853,4,I580-W, Alameda County,Undefined,37.701230,-122.037919
+401856,4,I580-E, Alameda County,City of San Leandro,37.721144,-122.135000
+401857,4,I580-W, Alameda County,City of Oakland,37.763173,-122.149746
+401860,5,US101-S, San Mateo County,City of Redwood City,37.496134,-122.232743
+401868,4,US101-S, San Mateo County,City of Redwood City,37.513987,-122.256314
+401870,5,US101-S, San Mateo County,City of Redwood City,37.517958,-122.260820
+401871,5,I880-N, Alameda County,City of San Leandro,37.707384,-122.161886
+401872,5,US101-N, San Mateo County,City of Redwood City,37.484232,-122.183031
+401873,5,US101-S, San Mateo County,City of Redwood City,37.484087,-122.183239
+401875,5,US101-S, San Mateo County,City of Redwood City,37.487195,-122.203699
+401877,4,I80-W, Solano County,Undefined,38.335912,-122.017281
+401878,4,I80-E, Solano County,Undefined,38.335762,-122.017033
+401879,5,I80-E, Solano County,City of Fairfield,38.260103,-122.060758
+401881,4,US101-S, Santa Clara County,Undefined,37.241836,-121.769232
+401882,4,US101-N, San Mateo County,City of Redwood City,37.513359,-122.255314
+401883,4,US101-S, San Mateo County,City of Redwood City,37.513240,-122.255458
+401888,5,I880-N, Alameda County,City of Fremont,37.541569,-122.018846
+401889,5,I680-S, Contra Costa County,City of Walnut Creek,37.877035,-122.047324
+401894,5,I80-W, Contra Costa County,City of San Pablo,37.958627,-122.330749
+401898,3,I580-W, Alameda County,City of Oakland,37.824927,-122.270729
+401899,3,I580-E, Alameda County,City of Oakland,37.824753,-122.270809
+401900,6,I80-W, Alameda County,City of Albany,37.888330,-122.309090
+401901,5,I80-E, Alameda County,City of Berkeley,37.888496,-122.308712
+401908,4,US101-N, Santa Clara County,City of San Jose,37.335284,-121.847662
+401910,4,US101-N, San Mateo County,City of Belmont,37.526135,-122.269775
+401911,3,I980-W, Alameda County,City of Oakland,37.818437,-122.270170
+401913,4,US101-S, San Mateo County,City of Menlo Park,37.482866,-122.179725
+401914,4,US101-N, San Mateo County,City of San Mateo,37.545233,-122.288409
+401917,4,I680-N, Contra Costa County,City of San Ramon,37.736505,-121.949957
+401918,4,I680-S, Contra Costa County,City of San Ramon,37.736377,-121.950232
+401923,4,I80-W, Solano County,City of Vacaville,38.364998,-121.963981
+401924,4,I680-N, Contra Costa County,Undefined,37.852987,-122.028797
+401925,4,I680-S, Contra Costa County,Undefined,37.852806,-122.029091
+401926,4,US101-S, Santa Clara County,City of Mountain View,37.411999,-122.078452
+401927,4,US101-N, San Mateo County,City of Menlo Park,37.483017,-122.179523
+401928,5,US101-S, San Mateo County,City of Redwood City,37.504928,-122.246148
+401929,5,US101-N, San Mateo County,City of Redwood City,37.505073,-122.245983
+401934,3,US101-N, San Francisco County,City of San Francisco,37.734370,-122.406177
+401935,4,US101-S, San Francisco County,City of San Francisco,37.734313,-122.406375
+401936,4,US101-S, Santa Clara County,City of Mountain View,37.407282,-122.065150
+401937,4,US101-S, Santa Clara County,City of Mountain View,37.411338,-122.076826
+401942,6,I280-N, Santa Clara County,City of San Jose,37.322594,-121.897858
+401943,4,I280-S, Santa Clara County,City of San Jose,37.322361,-121.897800
+401950,4,I680-S, Contra Costa County,City of San Ramon,37.777214,-121.975415
+401951,2,SR4-W, Contra Costa County,City of Martinez,37.995087,-122.068695
+401954,4,SR4-E, Contra Costa County,City of Pittsburg,38.011832,-121.866961
+401955,5,I680-N, Contra Costa County,City of San Ramon,37.771977,-121.972497
+401956,5,I680-S, Contra Costa County,City of San Ramon,37.771896,-121.972761
+401957,3,SR87-N, Santa Clara County,City of San Jose,37.270409,-121.860854
+401958,3,SR87-S, Santa Clara County,City of San Jose,37.270378,-121.861311
+401994,4,US101-N, Santa Clara County,City of Santa Clara,37.385523,-121.975872
+401996,4,US101-N, Santa Clara County,City of Sunnyvale,37.396411,-122.015716
+401997,4,US101-N, Santa Clara County,City of Sunnyvale,37.398597,-122.025693
+401998,4,US101-N, Santa Clara County,City of Mountain View,37.404178,-122.051070
+402002,4,I80-E, Solano County,Undefined,38.169958,-122.198969
+402003,4,I80-W, Solano County,City of Fairfield,38.253226,-122.066886
+402006,4,I580-E, Alameda County,Undefined,37.700968,-121.772462
+402008,2,US101-N, Santa Clara County,Undefined,36.959790,-121.551037
+402018,6,I580-W, Alameda County,City of Pleasanton,37.701839,-121.907813
+402027,4,I580-W, Alameda County,Undefined,37.700891,-121.774267
+402030,6,I580-E, Alameda County,City of Livermore,37.702966,-121.738126
+402032,5,I580-E, Alameda County,City of Livermore,37.716692,-121.705048
+402042,2,SR37-W, Sonoma County,City of Novato,38.121611,-122.497174
+402045,1,SR37-E, Sonoma County,Undefined,38.154841,-122.422072
+402046,2,SR37-W, Solano County,City of Vallejo,38.117602,-122.289241
+402048,2,SR37-W, Solano County,City of Vallejo,38.141456,-122.232308
+402049,2,SR37-E, Solano County,City of Vallejo,38.141243,-122.232302
+402050,3,SR37-W, Solano County,City of Vallejo,38.140802,-122.221723
+402051,4,SR37-E, Solano County,City of Vallejo,38.140566,-122.222246
+402052,6,I80-W, Solano County,City of Vallejo,38.140604,-122.219238
+402053,6,I80-E, Solano County,City of Vallejo,38.140530,-122.218983
+402054,6,I80-W, Solano County,City of Vallejo,38.144611,-122.217158
+402055,7,I80-E, Solano County,City of Vallejo,38.144542,-122.216916
+402056,3,SR87-N, Santa Clara County,City of San Jose,37.329043,-121.895498
+402060,3,SR85-N, Santa Clara County,Undefined,37.356655,-122.062397
+402061,3,SR85-S, Santa Clara County,Undefined,37.356616,-122.062620
+402062,4,I80-E, Contra Costa County,City of Richmond,37.898750,-122.309494
+402067,4,I280-S, Santa Clara County,City of San Jose,37.322223,-121.898120
+402068,5,SR4-W, Contra Costa County,City of Pittsburg,38.008296,-121.853335
+402069,5,SR4-E, Contra Costa County,City of Pittsburg,38.008132,-121.853402
+402070,3,SR160-S, Contra Costa County,Undefined,37.999058,-121.755281
+402071,3,SR160-N, Contra Costa County,Undefined,37.999049,-121.755035
+402072,6,I680-S, Contra Costa County,City of Walnut Creek,37.621290,-121.879820
+402077,4,I80-W, Solano County,City of Vallejo,38.137239,-122.221394
+402081,2,SR4-W, Contra Costa County,City of Antioch,37.992521,-121.758145
+402082,3,SR4-E, Contra Costa County,City of Antioch,37.991042,-121.758189
+402083,2,SR4-W, Contra Costa County,City of Antioch,37.995151,-121.756250
+402084,3,SR4-E, Contra Costa County,City of Antioch,37.994345,-121.756139
+402085,3,SR4-W, Contra Costa County,City of Antioch,37.999201,-121.755245
+402086,3,SR4-E, Contra Costa County,City of Antioch,37.999192,-121.754995
+402087,3,SR4-W, Contra Costa County,City of Antioch,38.005137,-121.746302
+402088,3,SR4-E, Contra Costa County,City of Antioch,38.005137,-121.746299
+402089,2,SR4-W, Contra Costa County,City of Antioch,38.005144,-121.737232
+402090,2,SR4-E, Contra Costa County,City of Antioch,38.005145,-121.737413
